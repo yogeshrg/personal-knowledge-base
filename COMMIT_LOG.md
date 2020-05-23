@@ -8,3 +8,4 @@
 ## 2020-04-11 19:27:52 - feat(test): implement test feature (4/20)
 ## 2020-04-18 10:38:38 - feat(core): implement core module (9/20)
 ## 2020-05-16 23:58:10 - feat(db): implement db module (20/20)
+## 2020-05-23 13:39:32 - feat(model): implement model feature (13/20)
