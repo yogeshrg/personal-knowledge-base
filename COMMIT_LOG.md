@@ -468,3 +468,4 @@
 ## 2020-04-18 10:38:38 - feat(core): implement core module (9/20)
 ## 2020-05-16 23:58:10 - feat(db): implement db module (20/20)
 ## 2020-05-23 13:39:32 - feat(model): implement model feature (13/20)
+## 2020-05-24 11:25:56 - feat(ci): implement ci feature (16/20)
