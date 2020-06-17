@@ -470,3 +470,4 @@
 ## 2020-05-23 13:39:32 - feat(model): implement model feature (13/20)
 ## 2020-05-24 11:25:56 - feat(ci): implement ci feature (16/20)
 ## 2020-06-07 14:16:24 - feat(db): add db support (14/20)
+## 2020-06-17 21:31:20 - feat(config): create config handler
