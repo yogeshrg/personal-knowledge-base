@@ -471,3 +471,4 @@
 ## 2020-05-24 11:25:56 - feat(ci): implement ci feature (16/20)
 ## 2020-06-07 14:16:24 - feat(db): add db support (14/20)
 ## 2020-06-17 21:31:20 - feat(config): create config handler
+## 2020-06-21 21:35:07 - feat(docs): add docs support (1/20)
