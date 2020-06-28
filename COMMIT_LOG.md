@@ -166,3 +166,4 @@
 ## 2020-06-07 14:16:24 - feat(db): add db support (14/20)
 ## 2020-06-17 21:31:20 - feat(config): create config handler
 ## 2020-06-21 21:35:07 - feat(docs): add docs support (1/20)
+## 2020-06-28 12:00:40 - feat(test): add test support (5/20)
