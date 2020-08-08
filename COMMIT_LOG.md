@@ -627,3 +627,4 @@
 ## 2020-06-21 21:35:07 - feat(docs): add docs support (1/20)
 ## 2020-06-28 12:00:40 - feat(test): add test support (5/20)
 ## 2020-07-05 18:12:58 - feat(core): create core handler (9/20)
+## 2020-08-08 09:01:54 - feat(cache): implement cache module (1/20)
