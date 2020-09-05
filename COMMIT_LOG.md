@@ -628,3 +628,4 @@
 ## 2020-06-28 12:00:40 - feat(test): add test support (5/20)
 ## 2020-07-05 18:12:58 - feat(core): create core handler (9/20)
 ## 2020-08-08 09:01:54 - feat(cache): implement cache module (1/20)
+## 2020-09-05 14:09:58 - feat(worker): create worker handler (14/20)
