@@ -485,3 +485,4 @@
 ## 2020-12-06 21:42:08 - feat(api): add api support (10/20)
 ## 2020-12-12 10:15:03 - feat(model): implement model module (7/20)
 ## 2021-02-07 23:30:31 - feat(ci): add ci support (12/20)
+## 2021-03-10 09:05:08 - feat(monitor): implement monitor module
