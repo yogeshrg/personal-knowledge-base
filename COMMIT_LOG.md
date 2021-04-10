@@ -30,3 +30,4 @@
 ## 2021-03-27 11:01:47 - feat(infra): add infra endpoint (20/20)
 ## 2021-03-28 18:48:16 - feat(cache): add cache support (4/20)
 ## 2021-04-03 23:27:02 - feat(test): add test support (10/20)
+## 2021-04-10 16:38:49 - feat(metric): implement metric feature (4/20)
