@@ -184,3 +184,4 @@
 ## 2021-03-28 18:48:16 - feat(cache): add cache support (4/20)
 ## 2021-04-03 23:27:02 - feat(test): add test support (10/20)
 ## 2021-04-10 16:38:49 - feat(metric): implement metric feature (4/20)
+## 2021-04-11 23:33:27 - feat(log): add log endpoint (2/20)
