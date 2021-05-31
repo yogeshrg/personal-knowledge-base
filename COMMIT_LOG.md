@@ -187,3 +187,4 @@
 ## 2021-04-11 23:33:27 - feat(log): add log endpoint (2/20)
 ## 2021-05-16 09:11:12 - feat(api): implement api module (2/20)
 ## 2021-05-23 19:27:42 - feat(cache): create cache handler (11/20)
+## 2021-05-31 10:51:46 - feat(metric): add metric support
