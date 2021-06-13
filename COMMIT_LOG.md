@@ -648,3 +648,4 @@
 ## 2021-05-23 19:27:42 - feat(cache): create cache handler (11/20)
 ## 2021-05-31 10:51:46 - feat(metric): add metric support
 ## 2021-06-05 11:20:00 - feat(build): implement build feature (10/20)
+## 2021-06-13 16:27:30 - feat(db): implement db feature (17/20)
