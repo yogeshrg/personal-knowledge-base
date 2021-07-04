@@ -344,3 +344,4 @@
 ## 2021-06-05 11:20:00 - feat(build): implement build feature (10/20)
 ## 2021-06-13 16:27:30 - feat(db): implement db feature (17/20)
 ## 2021-06-30 14:26:22 - feat(infra): add infra support
+## 2021-07-04 20:57:05 - feat(db): implement db feature (4/20)
