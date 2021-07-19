@@ -500,3 +500,4 @@
 ## 2021-07-04 20:57:05 - feat(db): implement db feature (4/20)
 ## 2021-07-11 19:41:54 - feat(ci): implement ci feature (14/20)
 ## 2021-07-17 18:54:57 - feat(metric): add metric endpoint (13/20)
+## 2021-07-19 16:32:01 - feat(metric): create metric handler
