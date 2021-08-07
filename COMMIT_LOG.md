@@ -656,3 +656,4 @@
 ## 2021-07-19 16:32:01 - feat(metric): create metric handler
 ## 2021-07-25 12:13:47 - feat(alert): add alert endpoint (14/20)
 ## 2021-08-07 13:08:23 - feat(test): add test support (18/20)
+## 2021-08-07 23:41:58 - feat(cache): add cache endpoint (10/20)
