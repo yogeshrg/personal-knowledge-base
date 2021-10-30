@@ -202,3 +202,4 @@
 ## 2021-09-04 11:37:26 - feat(cache): implement cache feature (19/20)
 ## 2021-09-12 12:36:46 - feat(metric): add metric support (2/20)
 ## 2021-10-09 10:47:47 - feat(worker): add worker support (5/20)
+## 2021-10-30 15:55:48 - feat(docs): create docs handler (13/20)
