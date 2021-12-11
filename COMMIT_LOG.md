@@ -52,3 +52,4 @@
 ## 2021-10-30 15:55:48 - feat(docs): create docs handler (13/20)
 ## 2021-11-20 12:11:54 - feat(data): implement data feature (8/20)
 ## 2021-11-20 19:06:15 - feat(worker): add worker endpoint (6/20)
+## 2021-12-11 10:55:02 - feat(core): add core endpoint (4/20)
