@@ -206,3 +206,4 @@
 ## 2021-11-20 12:11:54 - feat(data): implement data feature (8/20)
 ## 2021-11-20 19:06:15 - feat(worker): add worker endpoint (6/20)
 ## 2021-12-11 10:55:02 - feat(core): add core endpoint (4/20)
+## 2022-01-27 13:57:15 - feat(data): implement data feature
