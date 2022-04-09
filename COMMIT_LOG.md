@@ -55,3 +55,4 @@
 ## 2021-12-11 10:55:02 - feat(core): add core endpoint (4/20)
 ## 2022-01-27 13:57:15 - feat(data): implement data feature
 ## 2022-03-30 09:33:42 - feat(db): create db handler
+## 2022-04-09 19:11:51 - feat(auth): add auth endpoint (1/20)
