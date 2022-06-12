@@ -669,3 +669,4 @@
 ## 2022-03-30 09:33:42 - feat(db): create db handler
 ## 2022-04-09 19:11:51 - feat(auth): add auth endpoint (1/20)
 ## 2022-05-21 15:23:52 - feat(ci): implement ci feature (20/20)
+## 2022-06-12 09:53:38 - feat(db): create db handler (17/20)
