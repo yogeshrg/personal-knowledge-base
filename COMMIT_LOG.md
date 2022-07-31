@@ -212,3 +212,4 @@
 ## 2022-05-21 15:23:52 - feat(ci): implement ci feature (20/20)
 ## 2022-06-12 09:53:38 - feat(db): create db handler (17/20)
 ## 2022-07-09 21:40:44 - feat(core): create core handler (16/20)
+## 2022-07-31 22:58:48 - feat(db): add db endpoint (17/20)
