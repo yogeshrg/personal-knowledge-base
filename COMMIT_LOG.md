@@ -367,3 +367,4 @@
 ## 2022-07-09 21:40:44 - feat(core): create core handler (16/20)
 ## 2022-07-31 22:58:48 - feat(db): add db endpoint (17/20)
 ## 2022-09-10 19:44:19 - feat(infra): add infra endpoint (1/20)
+## 2022-09-17 17:10:47 - feat(data): create data handler (4/20)
