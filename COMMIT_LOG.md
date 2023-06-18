@@ -66,3 +66,4 @@
 ## 2023-02-04 22:06:05 - feat(monitor): implement monitor module (9/20)
 ## 2023-02-05 18:37:07 - feat(ci): implement ci feature (14/20)
 ## 2023-04-15 22:36:13 - feat(worker): add worker endpoint (13/20)
+## 2023-06-18 23:58:14 - feat(worker): create worker handler (12/20)
