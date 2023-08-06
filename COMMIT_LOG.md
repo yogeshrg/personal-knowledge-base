@@ -69,3 +69,4 @@
 ## 2023-06-18 23:58:14 - feat(worker): create worker handler (12/20)
 ## 2023-07-01 16:48:45 - feat(core): add core endpoint (1/20)
 ## 2023-07-29 20:59:26 - feat(metric): add metric endpoint (5/20)
+## 2023-08-06 16:36:03 - feat(cache): add cache endpoint (18/20)
