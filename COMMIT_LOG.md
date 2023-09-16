@@ -74,3 +74,4 @@
 ## 2023-08-19 09:51:48 - feat(ci): add ci endpoint (11/20)
 ## 2023-09-11 11:54:17 - feat(build): implement build module
 ## 2023-09-12 22:14:21 - feat(data): implement data feature
+## 2023-09-16 17:33:04 - feat(deploy): add deploy endpoint (14/20)
