@@ -390,3 +390,4 @@
 ## 2024-01-14 17:01:29 - feat(worker): add worker endpoint (5/20)
 ## 2024-02-11 17:44:02 - feat(build): implement build feature (3/20)
 ## 2024-02-17 15:35:34 - feat(ci): add ci endpoint (15/20)
+## 2024-03-03 09:50:06 - feat(ci): add ci support (13/20)
