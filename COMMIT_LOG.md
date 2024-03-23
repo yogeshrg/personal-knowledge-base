@@ -548,3 +548,4 @@
 ## 2024-03-10 14:40:50 - feat(deploy): create deploy handler (15/20)
 ## 2024-03-10 17:21:55 - feat(monitor): implement monitor feature (2/20)
 ## 2024-03-19 10:26:08 - feat(metric): implement metric feature
+## 2024-03-23 22:02:47 - feat(config): add config support (11/20)
