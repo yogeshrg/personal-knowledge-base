@@ -399,3 +399,4 @@
 ## 2024-03-31 09:06:11 - feat(build): create build handler (14/20)
 ## 2024-03-31 22:52:23 - feat(queue): add queue endpoint (7/20)
 ## 2024-05-12 16:15:03 - feat(infra): implement infra feature (9/20)
+## 2024-05-21 15:30:15 - feat(build): add build endpoint
