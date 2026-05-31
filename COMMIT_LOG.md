@@ -141,3 +141,4 @@
 ## 2026-04-25 20:56:49 - feat(api): add api support (10/20)
 ## 2026-05-02 09:06:21 - feat(deploy): implement deploy feature (18/20)
 ## 2026-05-09 17:29:23 - feat(ui): add ui endpoint (6/20)
+## 2026-05-31 14:27:04 - feat(config): add config support (8/20)
